@@ -1,0 +1,35 @@
+Summary
+=======
+
+This learning project (housed chiefly in main.py) tracks holidays for the years of 2020 to 2024.
+
+These holidays were scraped from a website to serve as the content of the tracker, plus a few that were pre-provided.
+
+Some weather information was gathered from an API as well
+
+
+Use
+====
+You can use this holiday tracker to add or delete holidays of your choosing.
+
+You may view sub lists of holidays by week
+
+If you choose the current week of the current year, you may view weekly weather data.
+
+Finally, you may save the list of holidays to a JSON file.
+
+Config
+=====
+main.py relies on config.py, which I have excluded per my instructions.
+
+
+Growth Goals
+==========
+1. I want to learn to use the lambda function I commented out at line 172 properly.
+
+2. I want to find a more elegant way of integrating the weather data with the current week's holidays.
+
+
+Thank you for reading.
+
+
